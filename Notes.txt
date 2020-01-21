@@ -1,0 +1,12 @@
+Installed Libraries:
+
+gameboard:
+random - for generating random codenames boards
+itertools.combinations - generates all possible combinations of relevant cards
+nltk.stem - SnowballStemmer to eliminate alternate forms of the same word
+
+player:
+gensim.models.KeyedVectors - implementation of Word2Vec (currently using Google's pre-trained model)
+nltk.wordnet - Princeton WordNet lexical database
+textblob.Word - simple NLP API, for simpler testing/use of wordnet
+
