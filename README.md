@@ -13,4 +13,4 @@ player.py
 This file contains the code to define and access player-logic:
 1. Uses various tools from NLTK to understand the words on the board and generate clues
 2. The game allows for multiple types of players using different logics or capable of identifying different types of clues
-3. Player logic is still in-progress. The public file is relatively simple version using Word2Vec and the publicly available, pre-trained Google News vectors.
+3. Player logic is still in-progress. The public file is a relatively simple version using Word2Vec with the publicly available, pre-trained Google News vectors.
