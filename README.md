@@ -1,8 +1,9 @@
 # Codenames
 Codenames "spymaster" bot
 
-This project is a work in progress. I'll be updating this document with more information soon, and updates to the code to follow.
 Update: Putting this project on hold for a while. It's fun and very complicated but, for both of those reasons, immensely time-consuming.
+This was definitely a larger project than I anticipated or budgeted for, 
+but I hope to post the more complete version as soon as I've had more time to spend ironing out the algorithm and cleaning up the code.
 
 gameboard.py
 This file contains the code to define and interact with the game components:
